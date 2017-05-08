@@ -6,7 +6,7 @@
 // Database
 define('DB_DRIVER', 'mysql');
 define('DB_HOST', 'localhost');
-define('DB_NAME', 'beweb');
+define('DB_NAME', 'QuantumMVC');
 define('DB_USER', 'root');
 define('DB_PWD' , '');
 
