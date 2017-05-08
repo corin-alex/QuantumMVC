@@ -1,0 +1,7 @@
+/.idea
+/Libraries/*
+!Libraries/.gitkeep
+/Runtime/Cache/*
+!Runtime/Cache/.gitkeep
+/Runtime/Temp/*
+!Runtime/Temp/.gitkeep
